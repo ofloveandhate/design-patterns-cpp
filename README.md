@@ -36,7 +36,7 @@ objects).
 - [Visitor], operations that can be applied to objects without changing their classes
 
 ### Other Languages
-In my repository you can find implementation of desgin patterns also in languages as 
+In my repository you can find implementation of design patterns also in languages as 
 
 * [Design Patterns in C++]
 * [Design Patterns in Java]
