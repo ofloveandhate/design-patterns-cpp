@@ -1,3 +1,5 @@
+This is ofloveandhate's fork of [JakubVojvoda](https://github.com/JakubVojvoda/design-patterns-cpp)'s MIT-licensed design patterns repo.  When things say 'my', that's JakubVojvoda talking.  
+
 ## C++ Design Patterns
 
 Software design patterns are general reusable solutions to problems which occur
